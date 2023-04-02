@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DESSERTS</name>
+   <tag></tag>
+   <elementGuidId>4e8218da-5e32-4137-ad63-967be1d7acab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DRINKS'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e8571f1-c1fc-474a-a554-b759ef4fae6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DESSERTS</value>
+      <webElementGuid>e029acfe-38f8-4d6b-9a66-489eebd8d109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper&quot;]/section[@class=&quot;food_section layout_padding-bottom&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;filters_menu&quot;]/a[@class=&quot;active&quot;]/li[1]/span[1]</value>
+      <webElementGuid>b4a56ca3-a6cd-4cb1-b0b5-d01bb468e59e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRINKS'])[1]/following::span[1]</value>
+      <webElementGuid>c809809c-aae8-4aac-921e-114df4b05056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPETIZER'])[1]/following::span[2]</value>
+      <webElementGuid>f58e93ab-8e35-4eb7-a784-c678e54dbeb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Water'])[1]/preceding::span[1]</value>
+      <webElementGuid>8a05e93d-c215-44de-be4f-d07eda2276f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DESSERTS']/parent::*</value>
+      <webElementGuid>9f2dfc8b-b0e6-47b8-988a-47b5d2e98325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>f114aec4-a44f-4983-9d64-c34f4b905baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DESSERTS' or . = 'DESSERTS')]</value>
+      <webElementGuid>4d02cb97-c356-41d3-96bd-4ce05139f2f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

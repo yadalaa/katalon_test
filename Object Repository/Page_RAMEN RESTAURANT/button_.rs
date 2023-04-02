@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>92cbe45f-9aea-43a0-af9d-8149742b977b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>427a0d93-f903-4c05-ab0f-b3e59b55a56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>alert('The product has been successfully added to the cart.')</value>
+      <webElementGuid>0f4b0214-809a-4d17-af36-78f35955e6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>325d10d6-53e1-4d93-937a-481fa42b5861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>9198eda5-4c2d-4f78-b1c3-730adc38a092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  + </value>
+      <webElementGuid>5ba31c6d-5f8c-4c2f-aacc-f8b9930e6644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper&quot;]/section[@class=&quot;food_section layout_padding-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;filters-content&quot;]/div[@class=&quot;row grid&quot;]/div[@class=&quot;col-md-6 all MAINDISK&quot;]/div[@class=&quot;box&quot;]/div[1]/div[@class=&quot;img-box&quot;]/div[@class=&quot;detail-box&quot;]/div[@class=&quot;options&quot;]/button[@class=&quot;btn btn-danger&quot;]</value>
+      <webElementGuid>512baa68-04c6-4ba1-bd1c-982bfb17b476</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>6dd90117-4110-4256-94f7-da28c4544a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tonkotsu ramen'])[1]/following::button[1]</value>
+      <webElementGuid>85506fae-5a70-46b1-8d4c-de8b7653ffde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESSERTS'])[1]/following::button[1]</value>
+      <webElementGuid>e97efddf-e90c-4953-9638-fd0ec8a27d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spicy Miso tonkotsu Ramen'])[1]/preceding::button[1]</value>
+      <webElementGuid>20fcbe76-82cf-4091-8f56-b5af4aef6576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+']/parent::*</value>
+      <webElementGuid>f01e1b28-6d1c-421c-a61d-5aa7de9b3a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>fe016c13-5e77-454f-917d-094a4fa7eaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '  + ' or . = '  + ')]</value>
+      <webElementGuid>f05f4158-c637-4ee4-8ad7-56beb16a9f3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

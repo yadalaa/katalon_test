@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite 1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>87fd368c-caa1-422f-b3b3-005571f53d7a</testSuiteGuid>
+   <testCaseLink>
+      <guid>7f46b5d2-2baf-47f9-a7dc-5f56cdb4501d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case 1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9e9eecd0-a21f-44e3-93d1-1fd6e9e45f99</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data for test1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9e9eecd0-a21f-44e3-93d1-1fd6e9e45f99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>loginID</value>
+         <variableId>8de8bf84-a4c9-4f0c-a53b-7313f27d1e16</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9e9eecd0-a21f-44e3-93d1-1fd6e9e45f99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>loginPassword</value>
+         <variableId>529cd2d2-8873-4df2-8a35-662129f7f194</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f44daebf-2930-4ec6-a3c9-adbe8dfb25e2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case 2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>563f6cc6-413b-4e9a-8c19-bac96ff5cd4a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data for test2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>563f6cc6-413b-4e9a-8c19-bac96ff5cd4a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>appetizer</value>
+         <variableId>ef9e1aee-1256-4392-a2ec-2442a2491a17</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>563f6cc6-413b-4e9a-8c19-bac96ff5cd4a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>drinks</value>
+         <variableId>37455bbf-c227-43f2-ac4d-b659ef989bde</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>563f6cc6-413b-4e9a-8c19-bac96ff5cd4a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>desserts</value>
+         <variableId>cc0c9055-7aeb-4ab6-9d2d-fbb06b8b2a0b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f18e12b0-75c3-41a7-b85e-0898f5f0ab72</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case 3</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6a24c030-fd46-4bf4-a867-8bebd080a11d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data for test3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6a24c030-fd46-4bf4-a867-8bebd080a11d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>title</value>
+         <variableId>985b141f-c3d0-4a40-8606-0586036e9c44</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

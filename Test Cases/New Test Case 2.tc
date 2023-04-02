@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>904214cc-21ba-4f04-a088-d2c9f2f79093</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef9e1aee-1256-4392-a2ec-2442a2491a17</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37455bbf-c227-43f2-ac4d-b659ef989bde</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc0c9055-7aeb-4ab6-9d2d-fbb06b8b2a0b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef9e1aee-1256-4392-a2ec-2442a2491a17</id>
+      <masked>false</masked>
+      <name>appetizer</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37455bbf-c227-43f2-ac4d-b659ef989bde</id>
+      <masked>false</masked>
+      <name>drinks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc0c9055-7aeb-4ab6-9d2d-fbb06b8b2a0b</id>
+      <masked>false</masked>
+      <name>desserts</name>
+   </variable>
+</TestCaseEntity>

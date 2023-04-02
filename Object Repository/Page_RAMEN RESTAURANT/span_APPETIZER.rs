@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_APPETIZER</name>
+   <tag></tag>
+   <elementGuidId>7de457a0-50dd-4b53-8271-e7b5673e1a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='MAINDISK'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7fc95e50-77b7-40f4-a6d0-1e173bdc499c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APPETIZER</value>
+      <webElementGuid>93859a76-c809-4087-9b98-0e4a389b0b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;wrapper&quot;]/section[@class=&quot;food_section layout_padding-bottom&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;filters_menu&quot;]/a[@class=&quot;active&quot;]/li[1]/span[1]</value>
+      <webElementGuid>ef541e4f-b4ea-423b-bcf3-b4f0f4514387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAINDISK'])[1]/following::span[1]</value>
+      <webElementGuid>aa46aeb9-871f-413c-a2dd-01899bcfda0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desserts'])[1]/following::span[2]</value>
+      <webElementGuid>78c1b433-a8f0-4bf1-ad31-cbf79465e764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRINKS'])[1]/preceding::span[1]</value>
+      <webElementGuid>a6708365-a506-42cb-b147-7dab93fea894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESSERTS'])[1]/preceding::span[2]</value>
+      <webElementGuid>8f0e2411-329f-475e-aced-46bd017f1297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='APPETIZER']/parent::*</value>
+      <webElementGuid>521fb92b-d6ef-4a15-be94-bad497f49585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/li/span</value>
+      <webElementGuid>ae404343-de37-4182-b292-d89e9b4fa0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'APPETIZER' or . = 'APPETIZER')]</value>
+      <webElementGuid>fa1c4862-755d-4221-aea3-9a687e20bb19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb83cca9-2744-47e1-9c1e-802fae6c94c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>985b141f-c3d0-4a40-8606-0586036e9c44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SecretCharacter RESTAURANT CHECKOUT\n'</defaultValue>
+      <description></description>
+      <id>985b141f-c3d0-4a40-8606-0586036e9c44</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+</TestCaseEntity>
